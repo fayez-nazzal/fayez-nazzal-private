@@ -22,6 +22,7 @@ I love creating nice looking and interactive user interfaces.
 - Cliptri Website: 
 - Fekit: 
 - ChocoTail: 
+- Ace Pixels:
 
 ### Desktop/Mobile
 - Cliptri: Cross-platform clipboard manager with a sleek design.

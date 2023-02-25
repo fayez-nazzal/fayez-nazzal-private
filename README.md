@@ -32,3 +32,5 @@ I love creating nice looking and interactive user interfaces.
 - Tailwind CSS Theme shift Plugin: Easily add multiple themes to your Tailwind CSS app.
 - Astonish: Create dynamic web presentations with React.
 - testgpt: Automate unit test creation with OpenAI.
+
+// Would be great to show how good you are in doing chrome extensions, rust code,data visualization, and 3D things
